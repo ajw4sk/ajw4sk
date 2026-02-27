@@ -15,7 +15,7 @@ Increasingly, my work centers on **AI-enabled systems**: shipping practical auto
 ```txt
 location: Arlington, VA
 linkedin : https://www.linkedin.com/in/andrewwippl/
-email    : ajwippl@gmail.com
+email    : awsmail@icloud.com
 ```
 
 ---
@@ -95,8 +95,8 @@ Instead of “projects,” here’s the kind of work I’m usually doing:
 ---
 
 ## `~/stats` (optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajw4sk&show_icons=true&hide_title=true&theme=github_dark&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajw4sk&layout=compact&theme=github_dark&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajw4sk&show_icons=true&hide_title=true&theme=github_dark&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajw4sk&layout=compact&theme=github_dark&bg_color=0D1117)
 
 ```txt
 ajw4sk@github:~$ echo "ship it"
