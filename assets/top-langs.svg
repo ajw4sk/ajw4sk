@@ -1,0 +1,26 @@
+<svg width="300" height="161" viewBox="0 0 300 161" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E6EDF3; }
+    .lang   { font: 400 11px 'Segoe UI', Ubuntu, Mono, monospace, Sans-Serif; fill: #E6EDF3; }
+    .pct    { font: 600 11px 'Segoe UI', Ubuntu, Mono, monospace, Sans-Serif; fill: #8B949E; }
+  </style>
+
+  <!-- Card background -->
+  <rect x="0.5" y="0.5" rx="4.5" height="99%" stroke="#30363D" width="299" fill="#0D1117" stroke-opacity="1"/>
+
+  <!-- Title -->
+  <text x="25" y="35" class="header">Most Used Languages</text>
+
+  <!-- Language bar (full-width Markdown) -->
+  <rect x="25" y="55" width="250" height="8" rx="5" fill="#2f81f7"/>
+
+  <!-- Language legend: Markdown -->
+  <g transform="translate(25, 80)">
+    <circle cx="5" cy="6" r="5" fill="#2f81f7"/>
+    <text x="15" y="11" class="lang">Markdown</text>
+    <text x="115" y="11" class="pct">100.00%</text>
+  </g>
+
+  <!-- Footer note -->
+  <text x="25" y="145" class="pct">Based on public repositories</text>
+</svg>
